@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/badge/license-GPL%203.0-succes.svg?style=flat-square&logo=license">
   <img src="https://img.shields.io/badge/version-1.0.1-important?style=flat-square">
 </p>
-## Custom Widgets
-### IconButton
+<h2>Custom Widgets </h2>
+
+<h3> IconButton </h3>
 
 - <a href="https://github.com/myygunduz/custom-widgets/blob/main/documentation.md#iconbutton" >Documentation</a>
 
