@@ -90,3 +90,5 @@ if __name__ == '__main__':
     window.show()
     app.exec_()
 ```
+#### Output:
+<img src="https://github.com/myygunduz/pyqtCuWi/blob/main/iconButton.gif" width="500">
